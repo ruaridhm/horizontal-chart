@@ -1,0 +1,13 @@
+    comment current code
+    centre and resize container and wrapper
+    put all titles and <p> in correct positions
+    draw spacers
+    add link and colour and sizing to text
+    add spacing at left and right to svg
+ad on hover functionality
+add areas to display outage alerts
+add properties to each rect to make chart usable.
+make it responsive
+
+
+
